@@ -1,0 +1,40 @@
+# macOS specific files
+.DS_Store
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+out/
+
+# Logs
+*.log
+
+# Compiled source
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+/build/
+/target/
+
+# Dependency directories
+/node_modules/
+/vendor/
+
+# Environment variables
+.env
+
+# Python specific files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Java specific files
+*.class
+
+# Other
+*.swp
+*~
